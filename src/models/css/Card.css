@@ -1,0 +1,13 @@
+.Header{
+    color: aqua;
+}
+
+#details-button{
+    color:white;
+    background-color: blue;
+}
+
+.dog-cards{
+    width: 16rem;
+    margin: 10px;
+}
